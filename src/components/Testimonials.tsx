@@ -3,7 +3,7 @@ import React from 'react';
 const testimonials = [
   {
     content:
-      'Marketash has completely transformed our marketing strategy. We've seen a 200% increase in conversion rates since implementing their platform.',
+      'Marketash has completely transformed our marketing strategy. We\'ve seen a 200% increase in conversion rates since implementing their platform.',
     author: 'Sarah Johnson',
     role: 'Marketing Director',
     company: 'TechCorp Inc.',
