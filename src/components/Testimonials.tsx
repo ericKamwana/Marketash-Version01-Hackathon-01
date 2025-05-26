@@ -19,7 +19,7 @@ const testimonials = [
   },
   {
     content:
-      'The customer support team is exceptional. They've helped us optimize our campaigns and achieve results we never thought possible.',
+      'The customer support team is exceptional. They\'ve helped us optimize our campaigns and achieve results we never thought possible.',
     author: 'Emily Rodriguez',
     role: 'Digital Marketing Manager',
     company: 'Retail Giants',
